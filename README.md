@@ -1,4 +1,4 @@
-# CallCraft AI — Conversational AI Engineering & Evaluation Workbench
+# CallCraft AI : Conversational AI Engineering & Evaluation Workbench
 
 > **Local-first prompt engineering, automated Quality Control (QC), A/B experimentation, and transcript defect diagnosis for voice & conversational AI.**
 
