@@ -1,0 +1,35 @@
+# Environments and secrets
+.env
+.env.*
+!.env.example
+
+# CallCraft runtime database and cache
+.callcraft/
+*.db
+*.sqlite3
+
+# Uploads
+uploads/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Specification & internal documents
+Conversational_AI_Designer_Engineer_JD.pdf
+ANTIGRAVITY_START.md

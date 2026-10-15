@@ -1,0 +1,19 @@
+# SAMPLE FIXTURE DATA FOR CALLCRAFT AI - SYNTHETIC DATASET ONLY
+conversation_id,speaker,message,turn_index,timestamp
+C-101,agent,"Hello, thank you for contacting sample loan assistance. How can I help you today?",0,2026-10-15T10:00:00Z
+C-101,customer,"I was wondering what documentation is required for a sample review.",1,2026-10-15T10:00:15Z
+C-101,agent,"Typically, proof of income and government ID are requested during review.",2,2026-10-15T10:00:30Z
+C-101,customer,"Thank you for explaining.",3,2026-10-15T10:00:45Z
+C-101,agent,"You are welcome. Have a great day!",4,2026-10-15T10:01:00Z
+C-102,agent,"Good afternoon, this is an automated assistant about sample personal financing.",0,2026-10-15T10:05:00Z
+C-102,customer,"Can you give me a loan right now?",1,2026-10-15T10:05:10Z
+C-102,agent,"We offer 100% approved guaranteed approval on all sample loans today!",2,2026-10-15T10:05:25Z
+C-103,agent,"Hello! How can I assist you with sample insurance coverage?",0,2026-10-15T10:10:00Z
+C-103,customer,"Please explain your term life coverage options.",1,2026-10-15T10:10:20Z
+C-103,agent,"We offer flexible terms from 10 to 30 years designed to protect families.",2,2026-10-15T10:10:45Z
+C-103,customer,"Can you repeat that?",3,2026-10-15T10:11:00Z
+C-103,agent,"We offer flexible terms from 10 to 30 years designed to protect families.",4,2026-10-15T10:11:15Z
+C-104,agent,"Hello, I am following up on your sample credit inquiry.",0,2026-10-15T10:15:00Z
+C-104,customer,"I have a question about my interest rate.",1,2026-10-15T10:15:20Z
+C-104,agent,"",2,2026-10-15T10:15:35Z
+C-105,customer,"Is anyone there? I need help with my loan application.",0,2026-10-15T10:20:00Z

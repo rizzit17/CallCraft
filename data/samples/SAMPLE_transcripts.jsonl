@@ -1,0 +1,6 @@
+{"conversation_id": "C-201", "speaker": "agent", "message": "Welcome to sample customer assistance. What product are you interested in?", "turn_index": 0, "timestamp": "2026-10-15T11:00:00Z"}
+{"conversation_id": "C-201", "speaker": "customer", "message": "I am interested in a home improvement loan.", "turn_index": 1, "timestamp": "2026-10-15T11:00:20Z"}
+{"conversation_id": "C-201", "speaker": "agent", "message": "We offer sample loans from $2,000 to $25,000 for home projects.", "turn_index": 2, "timestamp": "2026-10-15T11:00:40Z"}
+{"conversation_id": "C-202", "speaker": "agent", "message": "Hello! We promise guaranteed approval with no credit check required!", "turn_index": 0, "timestamp": "2026-10-15T11:05:00Z"}
+{"conversation_id": "C-202", "speaker": "customer", "message": "That sounds suspicious.", "turn_index": 1, "timestamp": "2026-10-15T11:05:15Z"}
+{"conversation_id": "C-203", "speaker": "customer", "message": "Hello? I have a question about my sample account.", "turn_index": 0, "timestamp": "2026-10-15T11:10:00Z"}
